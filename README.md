@@ -42,8 +42,8 @@ Tranquility City took inspiration from multiple projects such as Habbo, Club Pen
 
 ## Why Harmony and not any other chain?
 
-We have chosen Harmony because we thought it would be the best place to build such a project. There are several big reasons:
+We have chosen Harmony because we thought it would be the best place to build such a project. There are 2 big reasons:
 
 1. The Harmony blockchain is extremely fast (2s finality, soon to be 1s finality) and in our opinion is one of the only chains that truly has a chance to scale infinitely given its sharding technology.
-2. The daVinci gallery is extraordinary, has an amazing community and it will make the real estate sale much easier for us and for the users.
-3. The Harmony community is very welcoming and knowledgeable.
+2. The Harmony community is very welcoming, embraces diversity, and is very supportive of new projects that seek to make use of the incredible infrastructure that has been built by the Harmony team.&#x20;
+3. The ecosystem is rapidly growing, with new users coming to Harmony on a daily basis. Couple this with the fact that there is no functioning Metaverse on Harmony as yet, then this completes our rationale for choosing Harmony.

@@ -14,6 +14,7 @@
 
 * [🤸 About us](information/about-us.md)
 * [🗺️ Roadmap](information/roadmap.md)
+* [💳 Harmony grant](information/harmony-grant.md)
 
 ## Help
 

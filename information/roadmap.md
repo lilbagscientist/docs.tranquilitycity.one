@@ -13,10 +13,11 @@ But for now, this is a tentative roadmap:
 * Functioning text chat system
 * Improvements for the networking of the game
 * Database integration for user registration + tracking of stats in game
+* Testnet minigames to play and earn LUMEN
 * Mainnet minting of real estate
 * LUMEN token ICO on Artemis
 * Website rebuild + marketplace integration for real estate
-* Working towards getting the Harmony grant requirements met
+* Getting more users and stress testing our code/servers
 
 **Q2-Q3 2022:**
 
@@ -26,6 +27,7 @@ But for now, this is a tentative roadmap:
 * Minting of character NFTs
 * Minigames to play and earn LUMEN
 * Map additions/improvements (new locations, partnerships, etc.)
+* Building a DAO
 
 **Rest of 2022:**
 
