@@ -2,28 +2,30 @@
 
 The LUMEN token is the governance token of Tranquility City.
 
-  
-**LAUNCH WILL ANNOUNCED SOON ON SOCIAL MEDIA**
+**LAUNCH WILL BE ANNOUNCED SOON**
 
 **Tokenomics:**
 
-* 10 000 000 total supply
-* 70% paired initially
-* 20% developer fund
-* 10% used for marketing, airdrops, partnerships, etc.
+* **15 000 000 total supply:**
+* 4 000 000 on the Artemis Pad from
+* 2 000 000 in the Artemis Incubator&#x20;
+* 2 000 000 for liquidity on DFK
+* 2 000 000 for marketing, vesting, mod payouts, partnerships, airdrops etc.
+* 5 000 000 to fuel contracts for ingame earning of LUMEN
+
+{% hint style="info" %}
+The LP created will be locked in a multisig wallet where trust community members will be asked to multisig the wallet. This is done in order to allow the team to move the LP to another DEX. Burning the LP completely removes the possibility of migrating to another DEX and would back the project into a corner.
+{% endhint %}
 
 **The token will be used for a variety of things:**
 
-* Governance voting
 * In-game marketplace
 * In-game games/activities
+* Governance voting
 * And much more!
 
 {% hint style="info" %}
-You can purchase LUMEN on [DeFi Kingdoms](https://game.defikingdoms.com/#/marketplace)
+You will be able to purchase LUMEN on [DeFi Kingdoms](https://game.defikingdoms.com/#/marketplace) after the ICO
 {% endhint %}
 
-
-
-![LUMEN token](../.gitbook/assets/lumen_logofulldark_trasnparent-bg.png)
-
+![LUMEN token](../.gitbook/assets/lumen\_logofulldark\_trasnparent-bg.png)
