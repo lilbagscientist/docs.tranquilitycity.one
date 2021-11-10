@@ -7,9 +7,11 @@ The initial real estate sale will have 2500 + 1 NFTs consisting of the following
 * **1350 S appartments - at 400 ONEs each**
 * **750 M appartments - at 900 ONEs each**
 * **250 L appartments - at 1800 ONEs each**
-* **100 Premium appartments - at 3500 ONEs each**
-* **50 Houses - at 5000 ONEs each (house will have their own garden and extra goodies)**
+* **100 Premium appartments - at 3500 ONEs each - minted out**
+* **50 Houses - at 5000 ONEs each (house will have their own garden and extra goodies) - minted out**
 * **1 Condor Deluxe - starting at 30000 ONE (see more info below)**
+
+_**You can mint **_[_**here**_](https://mint.tranquilitycity.one)_**!**_
 
 {% content-ref url="condor-deluxe-penthouse.md" %}
 [condor-deluxe-penthouse.md](condor-deluxe-penthouse.md)
