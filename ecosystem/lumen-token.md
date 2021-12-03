@@ -6,14 +6,9 @@ The LUMEN token is the governance token of Tranquility City.
 
 **Tokenomics:**
 
-* **15 000 000 total supply:**
-* 4 000 000 on the Artemis Pad for the ICO
-* 2 000 000 in the Artemis Incubator&#x20;
-* 2 000 000 for liquidity on DFK
-* 2 000 000 for marketing, vesting, mod payouts, partnerships, airdrops etc.
-* 5 000 000 to fuel contracts for ingame earning of LUMEN
+* **15 000 000 total supply**
 
-We will be using the Artemis Pad to gather extra funding for the team. 50% of the total ONEs raised will be paired with 2 000 000 tokens (as indicated above), 10% will be paid out to Artemis for their tax and 40% will be used for ongoing development costs.
+We will be using the Artemis Pad to gather extra funding for the team. 50% of the total ONEs raised will be paired with LP and the other 50% will be kept for funding (minus the tax we pay to Artemis).
 
 {% hint style="info" %}
 The LP created will be locked in a multisig wallet where trust community members will be asked to multisig the wallet. This is done in order to allow the team to move the LP to another DEX. Burning the LP completely removes the possibility of migrating to another DEX and would back the project into a corner.
