@@ -4,7 +4,7 @@
 
 Tranquility City is an online game developed on the Harmony blockchain where people will be able to interact with each other, have fun and obviously, trade.
 
-There will be multiple districts in the city, each with real estate and people will be able to decorate their private quarters with furniture and vanity items that they can trade on the market.
+There will be multiple districts in the city, each with real estate and people will be able to decorate their private quarters with furniture and vanity items that they can trade on the market. There will also be multiple districts for utility, like the Cassiopeia district for community events, the Financial district to interact with contracts from Tranquility City partners and many more to be decided on by the devs/community.
 
 The economy will be community driven. We (the team) will not interfere with the prices of items on the in-game marketplace. Furniture and other decorations will be bought/traded with the in-game currency (the governance token of the project - LUMEN).
 
